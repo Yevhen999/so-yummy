@@ -2,7 +2,7 @@
   "name": "so-yummy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://romaniv2511.github.io/so-yummy/",
+  "homepage": "https://yevhen999.github.io/so-yummy/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
     "@testing-library/jest-dom": "^5.16.3",
